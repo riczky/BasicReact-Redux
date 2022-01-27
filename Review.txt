@@ -1,0 +1,16 @@
+React JS Prawito Hudoro
+
+1. Create React App 
+2. Stateless Component & Stateful Component
+3. Dynamic Component (Props)
+4. Update Parent Oleh Component
+5. Lifecycle Component
+6. JSON Server API GET
+7. JSON Server API DELETE
+8. JSON Server API POST
+9. JSON Server API PUT
+10. React Router
+11. State Management Redux
+12. Redux create Store & Reducers
+13. Redux Dispatch & Subscription
+14. Penerapan Redux pada React App
